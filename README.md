@@ -41,6 +41,15 @@ My goals are to:
 - Understanding basic TLS concepts
 - Inspecting requests with browser Developer Tools and `curl`
 
+### Module 04 - Git and GitHub
+
+- Creating and organising a GitHub repository
+- Tracking changes with meaningful commits
+- Using branches to work on changes separately
+- Organising learning evidence into folders
+- Maintaining a project README
+- Creating and merging Pull Requests
+
 ## About Me
 
 I am a Computing Science student interested in Cloud Engineering, cloud operations, networking, monitoring and troubleshooting.
