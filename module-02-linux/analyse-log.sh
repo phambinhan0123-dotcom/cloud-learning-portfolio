@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 if [ $# != 1 ]; then
@@ -12,7 +11,7 @@ exit 1
 fi
 
 grep "ERROR" $1 > error-report.txt
-printf "/nTotal Error: " >> error-report.txt
+printf "\nTotal Error: " >> error-report.txt
 grep "ERROR" $1 | wc -l >> error-report.txt
 
 echo "Analysis completed. Results saved in error-report.txt"
