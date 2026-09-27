@@ -1,0 +1,23 @@
+# HTTP Request Investigation
+
+## Request Information
+
+- URL: `https://developer.mozilla.org/en-US/`
+- Method: `GET`
+- Status: `200 OK`
+- Content-Type: `text/html`
+
+## Explanation
+
+- **URL:** The web address used to locate a resource on the Internet.
+- **Method:** `GET` means that the client is requesting a resource from the server.
+- **Status:** `200 OK` means that the server successfully received and handled the request.
+- **Content-Type:** `text/html` means that the response contains an HTML document that can be displayed as a web page.
+
+## What I Learned
+
+- **DNS:** The Domain Name System (DNS) translates a domain name, such as `developer.mozilla.org`, into an IP address that a computer can use to locate the server.
+- **TCP and IP:** IP handles addressing and routing packets between computers. TCP provides reliable and ordered delivery of data between the client and server.
+- **HTTP and HTTPS:** HTTP is an application-layer protocol used for communication between clients and servers. HTTPS is HTTP protected by TLS.
+- **TLS:** TLS encrypts the connection, protects data from being modified during transmission and helps the client verify the identity of the server.
+- **HTTP status codes:** Status codes describe the result of an HTTP request. `2xx` indicates success, `3xx` indicates redirection, `4xx` indicates a client-side error and `5xx` indicates a server-side error.
