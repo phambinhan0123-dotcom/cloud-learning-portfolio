@@ -1,0 +1,21 @@
+Current directory:
+
+/home/cloud-lab
+
+Content of backup:
+commands.txt
+
+Content of linux:
+commands.txt
+
+Content of networking:
+linux-notes.txt
+
+Commands used:
+pwd
+ls
+cd
+mkdir
+touch
+cp
+mv
