@@ -1,6 +1,5 @@
-[user@sahara ~]$ cat error-report.txt
 ERROR Database connection failed
 ERROR Request timed out
 ERROR Permission denied
 Total Error: 3
-[user@sahara ~]$ 
+
