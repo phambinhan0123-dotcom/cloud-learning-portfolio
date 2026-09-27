@@ -1,0 +1,9 @@
+[user@sahara ~]$ cat lab.log
+INFO Service started
+WARNING Disk usage is high
+ERROR Database connection failed
+INFO Retrying connection
+ERROR Request timed out
+ERROR Permission denied
+INFO Service stopped
+[user@sahara ~]$ 
