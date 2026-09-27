@@ -1,4 +1,4 @@
-[user@sahara ~]$ cat analyse-log.txt
+
 #!/bin/bash
 
 if [ $# != 1 ]; then
@@ -18,4 +18,4 @@ grep "ERROR" $1 | wc -l >> error-report.txt
 echo "Analysis completed. Results saved in error-report.txt"
 
 
-[user@sahara ~]$ 
+
