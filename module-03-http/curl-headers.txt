@@ -1,0 +1,7 @@
+HTTP/2 200
+server: Google Frontend
+content-type: text/html
+cache-control: public, max-age=3600
+strict-transport-security: max-age=63072000
+x-frame-options: DENY
+content-length: 121755
