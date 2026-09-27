@@ -41,7 +41,7 @@ My goals are to:
 - Understanding basic TLS concepts
 - Inspecting requests with browser Developer Tools and `curl`
 
-### Module 04 - Git and GitHub
+### Module 04 — Git and GitHub
 
 - Creating and organising a GitHub repository
 - Tracking changes with meaningful commits
