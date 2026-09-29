@@ -1,0 +1,7 @@
+INFO: Server started
+ERROR: Database connection failed
+INFO: User logged in
+WARNING: Memory usage high
+ERROR: Authentication service unavailable
+INFO: Request completed
+ERROR: Database timeout
