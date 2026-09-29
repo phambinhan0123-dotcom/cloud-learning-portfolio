@@ -8,12 +8,6 @@ def get_errors(filename: str) -> list:
                 errors.append(line[7:].strip("\n"))
 
     return errors
-        
-
-
-
-
-
 if __name__ == "__main__":
     errors = get_errors("server.log")
     print(errors)
