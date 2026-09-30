@@ -1,8 +1,6 @@
 def get_errors(filename: str) -> list:
     errors = []
     with open(filename, "r") as f:
-        
-        
         for line in f:
             if line.startswith("ERROR:"):
                 errors.append(line[7:].strip("\n"))
