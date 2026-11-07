@@ -50,6 +50,13 @@ My goals are to:
 - Maintaining a project README
 - Creating and merging Pull Requests
 
+### Module 05 - Networking
+
+- Completed Cisco Networking Basics
+- Configured and tested two subnets connected through a router
+- Observed ARP and ICMP traffic
+- Troubleshooting an incorrect default gateway
+
 ## About Me
 
 I am a Computing Science student interested in Cloud Engineering, cloud operations, networking, monitoring and troubleshooting.
