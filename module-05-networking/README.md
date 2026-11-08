@@ -8,6 +8,10 @@ a router, followed by connectivity testing and troubleshooting.
 Completed Cisco Networking Basics and applied the concepts 
 in this lab.
 
+## Course Completion Certificate
+
+[View my Cisco Networking Basics certificate](Networking_Basics_certificate.pdf)
+
 ## Network Design
 
 | Network | Subnet | Default Gateway |
